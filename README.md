@@ -11,4 +11,4 @@ second branch/commit you want in the diff, and you'll be looking at the diff.
 
 If you don't care to mess with the source (it is super quick and dirty, btw thanks goes out to http://bender.fesb.hr/~robert/jquery-bookmarklet-generator)
 then you can go [here](http://brianzeligson.com/github_quick_compare)
-and drag the ghc bookmarklet to your bookmarks bar:
+and drag the ghc bookmarklet to your bookmarks bar.
